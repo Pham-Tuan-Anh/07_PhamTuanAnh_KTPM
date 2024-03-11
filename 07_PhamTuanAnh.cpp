@@ -3,9 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello world 123"; 
-	cout << "Hello world 456789"; 
-
+	cout << "Hello world";
 	system("pause");
 	return 0;
 }
